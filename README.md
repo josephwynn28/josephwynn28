@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/joseph-nguyen-8ab2b6261/)https://www.linkedin.com/in/joseph-nguyen-8ab2b6261/
+[linkedin]:https://www.linkedin.com/in/joseph-nguyen-8ab2b6261/
